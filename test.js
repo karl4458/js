@@ -1,1 +1,1 @@
-alert("this is really good!");
+alert(cordova.version);
